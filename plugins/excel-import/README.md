@@ -9,7 +9,7 @@
 
 ## ダウンロード
 
-このリポジトリの **Releases（リリース）** から、添付ファイル **`ミラっとExcel_新規登録編.zip`** をダウンロードしてください。
+このリポジトリの **Releases（リリース）** から、添付ファイル **`miratto-excel-import-v17.zip`** をダウンロードしてください。
 このファイルが、kintoneへ読み込むための署名付きプラグインZIPです。
 
 GitHubが自動生成する「Source code (zip)」「Source code (tar.gz)」は、kintoneに読み込むプラグインZIPではありません。
@@ -39,7 +39,7 @@ GitHubが自動生成する「Source code (zip)」「Source code (tar.gz)」は�
 
 ## 導入
 
-1. 配布用の`ミラっとExcel_新規登録編.zip`をダウンロードします。
+1. 配布用の`miratto-excel-import-v17.zip`をダウンロードします。
 2. kintoneシステム管理でプラグインを読み込み、利用するアプリへ追加します。
 3. 以下のフィールドコードと読み込み設定を用意します。
 4. プラグイン設定を保存し、アプリの設定画面で「アプリを更新」を実行します。

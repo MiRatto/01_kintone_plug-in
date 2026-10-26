@@ -6,7 +6,7 @@ Excelのキーに一致するkintoneの既存レコードを、最大100件ず�
 
 ## ダウンロードと導入
 
-このリポジトリのReleasesから、添付された `ミラっとExcel_更新編.zip` をダウンロードし、解凍せずkintoneへ読み込みます。
+このリポジトリのReleasesから、添付された `miratto-excel-update-v8.zip` をダウンロードし、解凍せずkintoneへ読み込みます。
 自動生成の「Source code (zip)」「Source code (tar.gz)」はkintone用のプラグインZIPではありません。
 利用前に[利用条件・免責事項](TERMS.md)をご確認ください。
 
