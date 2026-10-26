@@ -1,0 +1,12 @@
+*.ppk
+*.pem
+非公開_署名鍵/
+.env
+.env.*
+node_modules/
+.build/
+src/
+scripts/
+dist/
+release-assets/
+*.zip
