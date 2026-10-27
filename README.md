@@ -12,6 +12,7 @@
 | [ミラっとExcel_新規登録編](plugins/excel-import/README.md) | 17 | [ダウンロード](https://github.com/MiRatto/01_kintone_plug-in/releases/tag/excel-import-v17) | `miratto-excel-import-v17.zip` |
 | [ミラっと_一括削除編](plugins/bulk-delete/README.md) | 8 | [ダウンロード](https://github.com/MiRatto/01_kintone_plug-in/releases/tag/bulk-delete-v8) | `miratto-bulk-delete-v8.zip` |
 | [ミラっとExcel_更新編](plugins/excel-update/README.md) | 8 | [ダウンロード](https://github.com/MiRatto/01_kintone_plug-in/releases/tag/excel-update-v8) | `miratto-excel-update-v8.zip` |
+| [ミラっと_一覧保存](plugins/personal-views/README.md) | 13 | [ダウンロード](https://github.com/MiRatto/01_kintone_plug-in/releases/tag/personal-views-v13) | `miratto-personal-views-v13.zip` |
 
 製品ごとにリリースします。一つの製品だけ更新する場合は、その製品のReleaseを追加します。
 
